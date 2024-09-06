@@ -25,7 +25,7 @@ const Hero = () => {
         
         
         <a href={resume}  target="_blank" rel="noopener noreferrer">
-        <button className="items-center m-auto ml-5 mb-10 p-3 bg-slate-300 text-black text-lg md:text-xl lg:text-xl font-bold m rounded-3xl">Check Resume</button>
+        <button className="items-center m-auto ml-5 mb-10 p-3 bg-slate-300 text-black text-lg md:text-xl lg:text-xl font-bold m rounded-3xl hover:opacity-70">Check Resume</button>
       </a>
 
         
