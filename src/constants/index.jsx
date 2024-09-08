@@ -156,7 +156,7 @@ export const EDUCATION = [
     institution: "Alagappa University, Karaikkudi",
     duration: "June 2021 - June 2023",
     description:
-      "During my MSc in Computer Science, I gained in-depth knowledge of advanced programming languages, modern web technologies and cloud computing. My studies included hands-on experience with computer system architecture and the latest developments in these fields.Completed a senior project on an Air Ticket Booking Website. Graduated with a good GPA",
+      "During my MSc in Computer Science, I gained in-depth knowledge of advanced programming languages, modern web technologies and cloud computing. My studies included hands-on experience with computer system architecture and the latest developments in these fields.Completed a senior project on an Student Details Management Website. Graduated with a good GPA",
   },
   {
     degree: "Bachelor of Science in Computer Science",
